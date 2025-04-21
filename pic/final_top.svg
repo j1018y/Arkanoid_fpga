@@ -1,0 +1,185 @@
+<svg width="2170" height="1450" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <polyline fill="none" id="Li93" points="410,1060 410,1260  1720,1250  1720,710  1630,710 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li94" points="450,760 280,760  280,1380  1760,1370  1760,650  1630,650 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li95" points="450,710 250,710  250,1340  1790,1330  1790,600  1630,600 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li92" points="400,530 160,530  160,1290  1620,1280  1630,1280  1670,1280  1670,760  1630,760 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li88" points="780,1060 780,1220  1590,1220  1590,790 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li87" points="810,1040 810,1200  1530,1200  1530,790 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li20" points="600,280 520,280  520,440  700,440 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <g id="s_1">
+   <rect fill="#ffffff" height="80" id="ra0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="130" x="700" y="260"/>
+   <text fill="#000000" font-family="Arial" font-size="15" id="t0" text-anchor="middle" x="766" y="306.4">vga_controller</text>
+  </g>
+  <g id="s_19">
+   <rect fill="#ffffff" height="80" id="s_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="130" x="700" y="820"/>
+   <text fill="#000000" font-family="Arial" font-size="15" id="s_4" text-anchor="middle" x="766" y="866.4">pong_text</text>
+  </g>
+  <g id="s_20">
+   <rect fill="#ffffff" height="80" id="s_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="130" x="700" y="420"/>
+   <text fill="#000000" font-family="Arial" font-size="15" id="s_7" text-anchor="middle" x="766" y="466.4">pong_graph</text>
+  </g>
+  <g id="s_21">
+   <rect fill="#ffffff" height="80" id="s_9" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="130" x="920" y="660"/>
+   <text fill="#000000" font-family="Arial" font-size="15" id="s_10" text-anchor="middle" x="986" y="706.4">timer</text>
+  </g>
+  <g id="s_22">
+   <rect fill="#ffffff" height="80" id="s_16" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="130" x="1000" y="880"/>
+   <text fill="#000000" font-family="Arial" font-size="15" id="s_17" text-anchor="middle" x="1066" y="926.4">m100_counter</text>
+  </g>
+  <path d="m830,280l9.27183854567,-3.74606593416l-6.27183854567,3.74606593416l6.27183854567,3.74606593416l-9.27183854567,-3.74606593416z" fill="#000000" id="aro0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m830,320l9.27183854567,-3.74606593416l-6.27183854567,3.74606593416l6.27183854567,3.74606593416l-9.27183854567,-3.74606593416z" fill="#000000" id="aro1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li1" points="840,280 1130,280 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li2" points="840,320 1190,320 1190,210 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li3" points="1130,280 1130,210 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t1" text-anchor="middle" x="1130" y="210">reset</text>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t2" text-anchor="middle" x="1190" y="210">clk</text>
+  <polyline fill="none" id="Li4" points="790,340 790,420 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li7" points="700,280 640,280 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li8" points="700,320 630,320 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li9" points="640,280 620,280 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t3" text-anchor="middle" x="610" y="280">10bit</text>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t4" text-anchor="middle" x="620" y="320">10bit</text>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t5" text-anchor="middle" x="860" y="380">screen_video_on</text>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t8" text-anchor="middle" x="660" y="270">screen_x</text>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t9" text-anchor="middle" x="660" y="340">screen_y</text>
+  <polyline fill="none" id="Li11" points="1190,320 1190,550 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m1186.25,320a3.75,3.75 0 1 1 7.5,0a3.75,3.75 0 1 1 -7.5,0" fill="#000000" id="dot1" stroke-width="1.5"/>
+  <polyline fill="none" id="Li12" points="740,260 740,150 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li13" points="790,260 790,150 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m740,150l3.7460659341591196,9.271838545667874l-3.7460659341591196,-6.271838545667874l-3.7460659341591205,6.271838545667874l3.7460659341591205,-9.271838545667874z" fill="#000000" id="aro2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m790,150l3.7460659341591196,9.271838545667874l-3.7460659341591196,-6.271838545667874l-3.7460659341591205,6.271838545667874l3.7460659341591205,-9.271838545667874z" fill="#000000" id="aro3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t10" text-anchor="middle" x="740" y="140">hsync</text>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t11" text-anchor="middle" x="790" y="140">vsync</text>
+  <path d="m790,420l-3.7460659341591205,-9.271838545667874l3.7460659341591205,6.271838545667874l3.7460659341591196,-6.271838545667874l-3.7460659341591196,9.271838545667874z" fill="#000000" id="aro4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li14" points="740,340 740,380  450,380 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t12" text-anchor="middle" x="570" y="370">screen_tick</text>
+  <polyline fill="none" id="Li15" points="830,440 1190,440 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m830,440l9.271838545667874,-3.746065934159119l-6.271838545667874,3.746065934159119l6.271838545667874,3.7460659341591214l-9.271838545667874,-3.7460659341591214z" fill="#000000" id="aro5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m1186.25,440a3.75,3.75 0 1 1 7.5,0a3.75,3.75 0 1 1 -7.5,0" fill="#000000" id="dot5" stroke-width="1.5"/>
+  <polyline fill="none" id="Li17" points="1130,280 1130,480  830,480 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m830,480l9.271838545667874,-3.746065934159119l-6.271838545667874,3.746065934159119l6.271838545667874,3.7460659341591214l-9.271838545667874,-3.7460659341591214z" fill="#000000" id="aro6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m1126.25,280a3.75,3.75 0 1 1 7.5,0a3.75,3.75 0 1 1 -7.5,0" fill="#000000" id="dot6" stroke-width="1.5"/>
+  <polyline fill="none" id="Li18" points="830,460 1230,460  1230,220 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m830,460l9.271838545667874,-3.746065934159119l-6.271838545667874,3.746065934159119l6.271838545667874,3.7460659341591214l-9.271838545667874,-3.7460659341591214z" fill="#000000" id="aro7" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t13" text-anchor="middle" x="1230" y="210">btn</text>
+  <path d="m800,500l3.7460659341591196,9.271838545667874l-3.7460659341591196,-6.271838545667874l-3.7460659341591205,6.271838545667874l3.7460659341591205,-9.271838545667874z" fill="#000000" id="aro8" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t14" text-anchor="middle" x="970" y="550">graph_wait</text>
+  <polyline fill="none" id="Li21" points="610,320 500,320  500,480  700,480 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m700,440l-9.271838545667872,3.7460659341591223l6.2718385456678725,-3.746065934159122l-6.271838545667874,-3.7460659341591205l9.271838545667874,3.74606593415912z" fill="#000000" id="aro9" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m700,480l-9.271838545667872,3.7460659341591223l6.2718385456678725,-3.746065934159122l-6.271838545667874,-3.7460659341591205l9.271838545667874,3.74606593415912z" fill="#000000" id="aro10" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li22" points="700,460 410,460 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m700,460l-9.271838545667872,3.7460659341591223l6.2718385456678725,-3.746065934159122l-6.271838545667874,-3.7460659341591205l9.271838545667874,3.74606593415912z" fill="#000000" id="aro11" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t15" text-anchor="middle" x="320" y="140">infinite_mode</text>
+  <path d="m700,490l-9.271838545667872,3.7460659341591223l6.2718385456678725,-3.746065934159122l-6.271838545667874,-3.7460659341591205l9.271838545667874,3.74606593415912z" fill="#000000" id="aro12" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li25" points="410,460 290,460 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li26" points="690,490 420,490 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t16" text-anchor="middle" x="220" y="143.6">hard_mode</text>
+  <polyline fill="none" id="Li28" points="710,500 710,530  600,530 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m710,500l3.7460659341591196,9.271838545667874l-3.7460659341591196,-6.271838545667874l-3.7460659341591205,6.271838545667874l3.7460659341591205,-9.271838545667874z" fill="#000000" id="aro13" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t17" text-anchor="middle" x="590" y="530">2bit</text>
+  <polyline fill="none" id="Li30" points="580,530 470,530 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li33" points="470,530 390,530 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t18" text-anchor="middle" x="430" y="550">state[1:0]</text>
+  <polyline fill="none" id="Li36" points="720,500 720,610 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t19" text-anchor="middle" x="680" y="570">graph_on</text>
+  <polyline fill="none" id="Li37" points="740,500 740,630 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li38" points="740,630 740,660  630,660 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t20" text-anchor="middle" x="710" y="680">hit</text>
+  <polyline fill="none" id="Li39" points="760,500 760,710 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t21" text-anchor="middle" x="720" y="700">miss</text>
+  <polyline fill="none" id="Li40" points="760,710 720,710 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li41" points="720,710 440,710 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li42" points="630,660 450,660 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li43" points="780,500 780,660 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t23" text-anchor="middle" x="780" y="670">12bit</text>
+  <polyline fill="none" id="Li44" points="780,670 780,760 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li45" points="290,460 290,150 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li46" points="430,490 250,490  250,150 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li47" points="780,760 450,760 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t24" text-anchor="middle" x="730" y="750">graph_rgb</text>
+  <polyline fill="none" id="Li48" points="500,480 500,840  700,840 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li49" points="520,440 520,870  700,870 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m516.25,440a3.75,3.75 0 1 1 7.5,0a3.75,3.75 0 1 1 -7.5,0" fill="#000000" id="dot13" stroke-width="1.5"/>
+  <path d="m496.25,480a3.75,3.75 0 1 1 7.5,0a3.75,3.75 0 1 1 -7.5,0" fill="#000000" id="dot14" stroke-width="1.5"/>
+  <path d="m700,840l-9.271838545667872,3.7460659341591223l6.2718385456678725,-3.746065934159122l-6.271838545667874,-3.7460659341591205l9.271838545667874,3.74606593415912z" fill="#000000" id="aro14" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m700,870l-9.271838545667872,3.7460659341591223l6.2718385456678725,-3.746065934159122l-6.271838545667874,-3.7460659341591205l9.271838545667874,3.74606593415912z" fill="#000000" id="aro15" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li50" points="1190,540 1190,820  1190,830  830,830 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m830,830l9.271838545667874,-3.746065934159119l-6.271838545667874,3.746065934159119l6.271838545667874,3.7460659341591214l-9.271838545667874,-3.7460659341591214z" fill="#000000" id="aro16" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li51" points="700,860 410,860 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m700,860l-9.271838545667872,3.7460659341591223l6.2718385456678725,-3.746065934159122l-6.271838545667874,-3.7460659341591205l9.271838545667874,3.74606593415912z" fill="#000000" id="aro17" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li52" points="410,860 410,1000 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t25" text-anchor="middle" x="370" y="910">ball[1:0]</text>
+  <path d="m730,900l3.7460659341591196,9.271838545667874l-3.7460659341591196,-6.271838545667874l-3.7460659341591205,6.271838545667874l3.7460659341591205,-9.271838545667874z" fill="#000000" id="aro18" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m770,900l3.7460659341591196,9.271838545667874l-3.7460659341591196,-6.271838545667874l-3.7460659341591205,6.271838545667874l3.7460659341591205,-9.271838545667874z" fill="#000000" id="aro19" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li56" points="810,900 810,980 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t30" text-anchor="middle" x="810" y="990">12bit</text>
+  <polyline fill="none" id="Li57" points="810,990 810,1040 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t31" text-anchor="middle" x="740" y="1010">text_on</text>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t32" text-anchor="middle" x="840" y="1010">text_rgb</text>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t33" text-anchor="middle" x="410" y="1010">2bit</text>
+  <polyline fill="none" id="Li58" points="410,1010 410,1070 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li59" points="1190,820 1190,920 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li60" points="1130,920 1190,920 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m1130,920l9.271838545667874,-3.746065934159119l-6.271838545667874,3.746065934159119l6.271838545667874,3.7460659341591214l-9.271838545667874,-3.7460659341591214z" fill="#000000" id="aro20" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m1186.25,830a3.75,3.75 0 1 1 7.5,0a3.75,3.75 0 1 1 -7.5,0" fill="#000000" id="dot20" stroke-width="1.5"/>
+  <polyline fill="none" id="Li61" points="1130,480 1170,480  1170,890  1130,890 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m1130,890l9.271838545667874,-3.746065934159119l-6.271838545667874,3.746065934159119l6.271838545667874,3.7460659341591214l-9.271838545667874,-3.7460659341591214z" fill="#000000" id="aro21" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m1126.25,480a3.75,3.75 0 1 1 7.5,0a3.75,3.75 0 1 1 -7.5,0" fill="#000000" id="dot21" stroke-width="1.5"/>
+  <polyline fill="none" id="Li62" points="1130,940 1350,940 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li63" points="1130,950 1400,950 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m1130,940l9.271838545667874,-3.746065934159119l-6.271838545667874,3.746065934159119l6.271838545667874,3.7460659341591214l-9.271838545667874,-3.7460659341591214z" fill="#000000" id="aro22" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m1130,950l9.271838545667874,-3.746065934159119l-6.271838545667874,3.746065934159119l6.271838545667874,3.7460659341591214l-9.271838545667874,-3.7460659341591214z" fill="#000000" id="aro23" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t34" text-anchor="middle" x="1300" y="930">score_inc</text>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t35" text-anchor="middle" x="1290" y="970">score_clear</text>
+  <polyline fill="none" id="Li67" points="770,900 770,920  830,920 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li68" points="860,920 1000,920 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li69" points="730,910 730,950  750,950 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li70" points="770,950 1000,950 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t36" text-anchor="middle" x="840" y="920">4bit</text>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t37" text-anchor="middle" x="760" y="950">4bit</text>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t38" text-anchor="middle" x="930" y="910">one_digit[3:0]</text>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t39" text-anchor="middle" x="930" y="970">ten_digit[3:0]</text>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t40" text-anchor="middle" x="780" y="990">4bit</text>
+  <polyline fill="none" id="Li71" points="780,900 780,980 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li72" points="780,990 780,1060 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li73" points="1050,680 1190,680 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m1186.25,680a3.75,3.75 0 1 1 7.5,0a3.75,3.75 0 1 1 -7.5,0" fill="#000000" id="dot23" stroke-width="1.5"/>
+  <path d="m1050,680l9.271838545667874,-3.746065934159119l-6.271838545667874,3.746065934159119l6.271838545667874,3.7460659341591214l-9.271838545667874,-3.7460659341591214z" fill="#000000" id="aro24" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li74" points="1050,710 1170,710 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m1166.25,710a3.75,3.75 0 1 1 7.5,0a3.75,3.75 0 1 1 -7.5,0" fill="#000000" id="dot24" stroke-width="1.5"/>
+  <path d="m1050,710l9.271838545667874,-3.746065934159119l-6.271838545667874,3.746065934159119l6.271838545667874,3.7460659341591214l-9.271838545667874,-3.7460659341591214z" fill="#000000" id="aro25" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li75" points="1010,660 1010,610  1380,610 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m1010,660l-3.7460659341591205,-9.271838545667874l3.7460659341591205,6.271838545667874l3.7460659341591196,-6.271838545667874l-3.7460659341591196,9.271838545667874z" fill="#000000" id="aro26" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t41" text-anchor="middle" x="1070" y="630">timer_start</text>
+  <polyline fill="none" id="Li76" points="970,660 970,590  1390,590 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m970,660l-3.7460659341591205,-9.271838545667874l3.7460659341591205,6.271838545667874l3.7460659341591196,-6.271838545667874l-3.7460659341591196,9.271838545667874z" fill="#000000" id="aro27" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t42" text-anchor="middle" x="1070" y="580">timer_tick</text>
+  <polyline fill="none" id="Li78" points="1000,740 1000,760  1480,760 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t43" text-anchor="middle" x="1350" y="750">timer_up</text>
+  <polyline fill="none" id="Li82" points="800,510 800,540  1390,540 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <rect fill="#ffffff" height="320" id="ra3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="120" x="1510" y="470"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t45" text-anchor="middle" x="1570" y="570">processed by</text>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t46" text-anchor="middle" x="1570" y="600">pong_top</text>
+  <polyline fill="none" id="Li83" points="1470,760 1510,760 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li84" points="1380,610 1510,610 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li85" points="1380,590 1510,590 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li86" points="1380,540 1510,540 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m1510,760l-9.271838545667872,3.7460659341591223l6.2718385456678725,-3.746065934159122l-6.271838545667874,-3.7460659341591205l9.271838545667874,3.74606593415912z" fill="#000000" id="aro28" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m1530,790l3.7460659341591196,9.271838545667874l-3.7460659341591196,-6.271838545667874l-3.7460659341591205,6.271838545667874l3.7460659341591205,-9.271838545667874z" fill="#000000" id="aro29" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m1590,790l3.7460659341591196,9.271838545667874l-3.7460659341591196,-6.271838545667874l-3.7460659341591205,6.271838545667874l3.7460659341591205,-9.271838545667874z" fill="#000000" id="aro30" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li89" points="1350,940 1560,940  1560,790 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li90" points="1400,950 1610,950  1610,790 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m1560,790l3.7460659341591196,9.271838545667874l-3.7460659341591196,-6.271838545667874l-3.7460659341591205,6.271838545667874l3.7460659341591205,-9.271838545667874z" fill="#000000" id="aro31" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m1610,790l3.7460659341591196,9.271838545667874l-3.7460659341591196,-6.271838545667874l-3.7460659341591205,6.271838545667874l3.7460659341591205,-9.271838545667874z" fill="#000000" id="aro32" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li91" points="720,610 720,640  1510,640 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m1510,640l-9.271838545667872,3.7460659341591223l6.2718385456678725,-3.746065934159122l-6.271838545667874,-3.7460659341591205l9.271838545667874,3.74606593415912z" fill="#000000" id="aro33" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m1630,710l9.271838545667874,-3.746065934159119l-6.271838545667874,3.746065934159119l6.271838545667874,3.7460659341591214l-9.271838545667874,-3.7460659341591214z" fill="#000000" id="aro35" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li97" points="470,660 210,660  210,1400 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li98" points="1830,1400 210,1400 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <polyline fill="none" id="Li99" points="1830,1400 1830,540  1630,540 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m1630,540l9.271838545667874,-3.746065934159119l-6.271838545667874,3.746065934159119l6.271838545667874,3.7460659341591214l-9.271838545667874,-3.7460659341591214z" fill="#000000" id="aro36" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m1630,600l9.271838545667874,-3.746065934159119l-6.271838545667874,3.746065934159119l6.271838545667874,3.7460659341591214l-9.271838545667874,-3.7460659341591214z" fill="#000000" id="aro37" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+ </g>
+</svg>

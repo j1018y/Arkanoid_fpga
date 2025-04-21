@@ -1,0 +1,27 @@
+<svg width="800" height="220" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#ffffff" height="60" id="s_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="110" x="450" y="60"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="s_7" text-anchor="middle" x="503.26667" y="94.60001">newball</text>
+  <rect fill="#ffffff" height="60" id="s_9" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="110" x="650" y="60"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="s_10" text-anchor="middle" x="703.26667" y="94.60001">over</text>
+  <rect fill="#ffffff" height="60" id="s_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="110" x="250" y="60"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="s_4" text-anchor="middle" x="303.26667" y="94.60001">play</text>
+  <rect fill="#ffffff" height="60" id="ra3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="110" x="40" y="60"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t46" text-anchor="middle" x="93.26667" y="94.60001">new_game</text>
+  <polyline fill="none" id="Li100" points="150,90 250,90 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m250,90l-9.27183854567,3.74606593416l6.27183854567,-3.74606593416l-6.27183854567,-3.74606593416l9.27183854567,3.74606593416z" fill="#000000" id="aro38" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t47" text-anchor="middle" x="200" y="80">btn != 2&#x27;b0</text>
+  <polyline fill="none" id="Li101" points="360,90 450,90 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m450,90l-9.27183854567,3.74606593416l6.27183854567,-3.74606593416l-6.27183854567,-3.74606593416l9.27183854567,3.74606593416z" fill="#000000" id="aro39" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t48" text-anchor="middle" x="400" y="40">hit!=1 &amp;&amp;</text>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t49" text-anchor="middle" x="400" y="60">miss==1 &amp;&amp;</text>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t50" text-anchor="middle" x="400" y="80">ball_reg!=0</text>
+  <polyline fill="none" id="Li102" points="560,90 650,90 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t51" text-anchor="middle" x="600" y="40">timer_up &amp;&amp;</text>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t52" text-anchor="middle" x="600" y="60">(btn != 2&#x27;b0)</text>
+  <polyline fill="none" id="Li103" points="700,120 700,160 90,160 90,120 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="m90,120l3.74606593416,9.27183854567l-3.74606593416,-6.27183854567l-3.74606593416,6.27183854567l3.74606593416,-9.27183854567z" fill="#000000" id="aro40" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <text fill="#000000" font-family="Arial" font-size="15" id="t53" text-anchor="middle" x="450" y="180">timer_up==1</text>
+ </g>
+</svg>
