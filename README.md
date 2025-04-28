@@ -1,7 +1,7 @@
 ## Introduction
 
 **Arkanoid** is a block-breaking game where the player uses a paddle to keep a ball in play and destroy bricks.  
-In this project, we aimed to recreate a basic yet fun version of Arkanoid on FPGA hardware.
+In this project, we aimed to recreate this game on FPGA hardware.
 
 ---
 
